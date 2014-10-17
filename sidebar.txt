@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pcd:home|Door43 (pcd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pcd|d43-pcd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pcd/archive/master.zip|d43-pcd.zip]]
+
+**Recent Changes**
+{{changes>ns = pcd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pcd|Ethnologue data]]
+
